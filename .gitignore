@@ -1,5 +1,5 @@
 *.exe
 .vscode
-.main.DSYM
-.test.DSYM
+/.main.DSYM
+/.test.DSYM
 program
